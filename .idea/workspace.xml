@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ef9f236-5889-4fc4-ab3c-7595a8fde602" name="Changes" comment="Study Plan added&#10;More on ndArray">
-      <change afterPath="$PROJECT_DIR$/IOLearn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stratification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyPlan.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Review/htd-analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Review/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Review/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Review/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EDA.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HPTesting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayingWithData.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResearchObjectives" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumpyLearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumpyLearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOLearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/IOLearn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +72,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tatevik Abrahamyan\PycharmProjects\PythonProject\Data Review" />
+      <recent name="C:\Users\Tatevik Abrahamyan\PycharmProjects\PythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +100,10 @@
       <workItem from="1736272924577" duration="1481000" />
       <workItem from="1736274558347" duration="13085000" />
       <workItem from="1736784407609" duration="6772000" />
-      <workItem from="1738125339690" duration="12634000" />
+      <workItem from="1738125339690" duration="18459000" />
+      <workItem from="1738923982004" duration="44537000" />
+      <workItem from="1739445060709" duration="5378000" />
+      <workItem from="1739467938881" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="Study Plan added&#10;More on ndArray">
       <option name="closed" value="true" />
@@ -99,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736358306746</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Study Plan added&#10;More on ndArray">
+      <option name="closed" value="true" />
+      <created>1738342262533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738342262533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
